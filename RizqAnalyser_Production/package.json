@@ -1,0 +1,13 @@
+{
+  "name": "rizq-analyser",
+  "version": "1.0.0",
+  "description": "Universal job screening extension for Muslims",
+  "main": "background.js",
+  "scripts": {
+    "lint": "eslint .",
+    "build": "echo 'Build step for packaging extension'"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  }
+}

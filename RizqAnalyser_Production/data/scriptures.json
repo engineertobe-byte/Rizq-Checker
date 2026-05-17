@@ -1,0 +1,77 @@
+{
+  "halal": {
+    "english": "An-Nu'man ibn Bashir (may Allah be pleased with him) narrated: I heard the Messenger of Allah (peace and blessings be upon him) say: 'The halal (lawful) is clear and the haram (prohibited) is clear, and between them are unclear matters that are unknown to most people. Whoever is wary of these unclear matters, has absolved his religion and honor. And whoever indulges in them, has indulged in the haram (prohibited). It is like a shepherd who herds his sheep too close to a preserved sanctuary, and they will eventually graze in it. Every king has a sanctuary, and sanctuary of Allah is what He has made haram (prohibited). There lies within the body a piece of flesh. If it is sound, the whole body is sound; and if it is corrupted, the whole body is corrupted. Verily, this piece is the heart.'",
+    "arabic": "عَنْ النُّعْمَانِ بْنِ بَشِيرٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «إِنَّ الْحَلَالَ بَيِّنٌ وَإِنَّ الْحَرَامَ بَيِّنٌ، وَبَيْنَهُمَا أُمُورٌ مُشْتَبِهَاتٌ لَا يَعْلَمُهُنَّ كَثِيرٌ مِنَ النَّاسِ، فَمَنِ اتَّقَى الشُّبُهَاتِ فَقَدْ اسْتَبْرَأَ لِدِينِهِ وَعِرْضِهِ، وَمَنْ وَقَعَ فِي الشُّبُهَاتِ وَقَعَ فِي الْحَرَامِ، كَالرَّاعِي يَرْعَى حَوْلَ الْحِمَى يُوشِكُ أَن يَرْتَعَ فِيهِ، أَلَا وَإِنَّ لِكُلِّ مَلِكٍ حِمًى، أَلَا وَإِنَّ حِمَى اللَّهِ مَحَارِمُهُ، أَلَا وَإِنَّ فِي الْجَسَدِ مُضْغَةً إِذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ، وَإِذَا فَسَدَتْ فَسَدَ الْجَسَدُ كُلُّهُ، أَلَا وَهِيَ الْقَلْبُ»",
+    "source": "Sahih al-Bukhari & Sahih Muslim"
+  },
+  "riba": {
+    "english": "Those who eat Riba (usury) will not stand (on the Day of Resurrection) except like the standing of a person beaten by Shaytan (Satan) leading him to insanity. That is because they say: 'Trading is only like Riba (usury),' whereas Allah has permitted trading and forbidden Riba (usury). So whosoever receives an admonition from his Lord and stops eating Riba (usury) shall not be punished for the past; his case is for Allah (to judge); but whoever returns (to Riba), such are the dwellers of the Fire — they will abide therein.",
+    "arabic": "الَّذِينَ يَأْكُلُونَ الرِّبَا لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسِّ ۚ ذَٰلِكَ بِأَنَّهُمْ قَالُوا إِنَّمَا الْبَيْعُ مِثْلُ الرِّبَا ۗ وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا ۚ فَمَن جَاءَهُ مَوْعِظَةٌ مِّن رَّبِّهِ فَانتَهَىٰ فَلَهُ مَا سَلَفَ وَأَمْرُهُ إِلَى اللَّهِ ۖ وَمَنْ عَادَ فَأُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+    "source": "Surah Al-Baqarah (2:275)"
+  },
+  "alcohol_gambling": {
+    "english": "O you who believe! Intoxicants, gambling, idols, and divining arrows are an abomination of Satan's handiwork. So avoid (strictly all) that (abomination) in order that you may be successful. Satan seeks only to stir up enmity and hatred among you by means of intoxicants and gambling, and to turn you away from the remembrance of Allah and from prayer. Will you not then abstain?",
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنصَابُ وَالْأَزْلَامُ رِجْسٌ مِّنْ عَمَلِ الشَّيْطَانِ فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ ۞ إِنَّمَا يُرِيدُ الشَّيْطَانُ أَن يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ اللَّهِ وَعَنِ الصَّلَاةِ ۖ فَهَلْ أَنتُم مُّنتَهُونَ",
+    "source": "Surah Al-Ma'idah (5:90-91)"
+  },
+  "pork": {
+    "english": "He has only forbidden you what dies of itself, and blood, and the flesh of swine, and that over which any other (name) than (that of) Allah has been invoked; but whoever is driven to necessity, not desiring nor exceeding the limit, no sin shall be upon him; surely Allah is Forgiving, Merciful.",
+    "arabic": "إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ ۖ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَا إِثْمَ عَلَيْهِ ۚ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
+    "source": "Surah Al-Baqarah (2:173)"
+  },
+  "indecency": {
+    "english": "Tell the believing men to lower their gaze and guard their private parts. That is purer for them. Indeed, Allah is Acquainted with what they do. And tell the believing women to lower their gaze and guard their private parts and not expose their adornment except that which [necessarily] appears thereof.",
+    "arabic": "قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا فُرُوجَهُمْ ۚ ذَٰلِكَ أَزْكَىٰ لَهُمْ ۗ إِنَّ اللَّهَ خَبِيرٌ بِمَا يَصْنَعُونَ ۞ وَقُل لِّلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا",
+    "source": "Surah An-Nur (24:30-31)"
+  },
+  "destruction": {
+    "english": "And when he turns away, he strives throughout the land to cause corruption therein and destroy crops and animals. And Allah does not like corruption.",
+    "arabic": "وَإِذَا تَوَلَّىٰ سَعَىٰ فِي الْأَرْضِ لِيُفْسِدَ فِيهَا وَيُهْلِكَ الْحَرْثَ وَالنَّسْلَ ۗ وَاللَّهُ لَا يُحِبُّ الْفَسَادَ",
+    "source": "Surah Al-Baqarah (2:205)"
+  },
+  "harm": {
+    "english": "And spend in the way of Allah and do not throw [yourselves] with your [own] hands into destruction. And do good; indeed, Allah loves the doers of good.",
+    "arabic": "وَأَنفِقُوا فِي سَبِيلِ اللَّهِ وَلَا تُلْقُوا بِأَيْدِيكُمْ إِلَى التَّهْلُكَةِ ۛ وَأَحْسِنُوا ۛ إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ",
+    "source": "Surah Al-Baqarah (2:195)"
+  },
+  "fraud": {
+    "english": "The Messenger of Allah (peace be upon him) said: 'Whoever cheats us is not one of us.'",
+    "arabic": "قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ غَشَّنَا فَلَيْسَ مِنَّا»",
+    "source": "Sahih Muslim"
+  },
+  "spyware": {
+    "english": "O you who have believed, avoid much [negative] assumption. Indeed, some assumption is sin. And do not spy or backbite each other. Would one of you like to eat the flesh of his brother when dead? You would detest it. And fear Allah; indeed, Allah is Accepting of repentance and Merciful.",
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِّنَ الظَّنِّ إِنَّ بَعْضُكُم بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ ۚ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ تَوَّابٌ رَّحِيمٌ",
+    "source": "Surah Al-Hujurat (49:12)"
+  },
+  "piracy": {
+    "english": "The Prophet (peace be upon him) said: 'Indeed, among the people who consume the most unlawful earnings are those who take the price of what they did not possess.'",
+    "arabic": "قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ مِنْ أَكْثَرِ النَّاسِ أَكْلًا لِلْحَرَامِ الَّذِينَ يَأْخُذُونَ ثَمَنَ مَا لَمْ يَمْلِكُوا»",
+    "source": "Sahih al-Bukhari"
+  },
+  "mlm": {
+    "english": "O you who have believed, do not betray Allah and the Messenger or betray your trusts while you know [the consequence].",
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَخُونُوا اللَّهَ وَالرَّسُولَ وَتَخُونُوا أَمَانَاتِكُمْ وَأَنتُمْ تَعْلَمُونَ",
+    "source": "Surah Al-Anfal (8:27)"
+  },
+  "role_software_sin": {
+    "english": "And cooperate in righteousness and piety, but do not cooperate in sin and aggression. And fear Allah; indeed, Allah is severe in penalty.",
+    "arabic": "وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ ۚ وَاتَّقُوا اللَّهَ ۖ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
+    "source": "Surah Al-Ma'idah (5:2)"
+  },
+  "role_marketing_haram": {
+    "english": "And do not argue on behalf of those who deceive themselves. Indeed, Allah loves not one who is a habitually sinful deceiver.",
+    "arabic": "وَلَا تُجَادِلْ عَنِ الَّذِينَ يَخْتَانُونَ أَنفُسَهُمْ ۚ إِنَّ اللَّهَ لَا يُحِبُّ مَن كَانَ خَوَّانًا أَثِيمًا",
+    "source": "Surah An-Nisa (4:107)"
+  },
+  "role_legal_haram": {
+    "english": "The Prophet (peace be upon him) said: 'Allah curses the one who offers a bribe and the one who takes it.'",
+    "arabic": "لَعَنَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الرَّاشِيَ وَالْمُرْتَشِيَ",
+    "source": "Sunan Abu Dawud"
+  },
+  "shubha_mixed": {
+    "english": "The halal (lawful) is clear and the haram (prohibited) is clear, and between them are unclear matters that are unknown to most people...",
+    "arabic": "إِنَّ الْحَلَالَ بَيِّنٌ وَHaram... la'tahouha...",
+    "source": "Sahih al-Bukhari & Sahih Muslim"
+  }
+}
