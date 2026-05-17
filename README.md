@@ -1,8 +1,8 @@
-# RizqAnalyser
+# 🌙 RizqAnalyser
 
 Universal job screening extension for Muslims.
 
-## 🚀 Features
+## 🌟 Features
 - **Multi-Platform Detection**: Reliable company and role extraction from LinkedIn, Indeed, and Glassdoor.
 - **Hybrid Analysis**: Combines Wikidata SPARQL queries with a comprehensive rule-based keyword engine.
 - **Scriptural Grounding**: Provides authenticated verses and hadiths for every verdict.
